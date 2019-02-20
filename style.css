@@ -1,0 +1,23 @@
+.lol{
+    width: 100%;
+    max-height: 500px;
+    justify-content: center;
+}
+.page-footer{
+    background-color: #57b288;
+    box-shadow: 5px,5px,8px #888888;
+}
+.footer-copyright{
+    background-color:#388299;
+}
+.navbar{
+    background-color: #d1d3cf;
+    box-shadow: 5px 5px 8px #888888;
+    position:initial;
+}
+body{
+    background-color: antiquewhite;
+}
+.carousel{
+    box-shadow: 5px 5px 8px #e4e4e4;
+}
